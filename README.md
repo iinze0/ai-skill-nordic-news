@@ -1,2 +1,3 @@
-# ai-skill-nordic-news
-AI skill for summarizing the most interesting or unusual news from Norway and Finland over the last 24-48 hours with impact analysis.
+# AI Skill: Nordic News
+
+Summarizes recent interesting news from Norway and Finland with impact analysis.

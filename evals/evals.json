@@ -1,0 +1,8 @@
+{
+  "skill": "nordic-news",
+  "test_cases": [
+    {"name": "daily_digest", "input": "Most interesting news from Norway and Finland last 48 hours", "assertions": ["Selects several stories", "Includes impact", "Covers both countries"]},
+    {"name": "unusual", "input": "Unusual news from Norway today", "assertions": ["Focuses on odd or notable"]},
+    {"name": "finland", "input": "Finland news summary", "assertions": ["Finland-focused with context"]}
+  ]
+}
